@@ -6,13 +6,13 @@ Create a Personal Dashboard for your Chrome Browser. Note you are only required 
 
 ## Development Objectives
 
-This challenge will test your ability to create a promise.
+This challenge will test your ability to create a promise rejection within the dashboard.
 
 ## Reflections
 
 ### Areas of Mastery
 
-**API Integration** - Learning how to integrate an API effiicently, all thanks to the instructor
+**API Integration** - Learning how to integrate an API effiicently, all thanks to the instructor.
 
 ### Challenges Encountered
 
@@ -20,7 +20,7 @@ This challenge will test your ability to create a promise.
 
 ### Areas of Improvement
 
-**Error Handling** - There were errors and I may have struggled in that area of handling
+**Error Handling** - There were errors and I may have struggled in that area of handling errors.
 
 ### Overall Learning Experience
 
