@@ -1,6 +1,6 @@
 // fetch author
 fetch(
-  "https://unsplash.com/photos/aerial-view-of-city-near-mountain-during-daytime-1GgWbP74phY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash"
+  "https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&query=nature"
 )
   .then((res) => res.json())
   .then((data) => {
